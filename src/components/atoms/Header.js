@@ -7,6 +7,7 @@ const Header = ({title}) => {
     <View>
       <Text style={styles.headerText}>{title}</Text>
       <Text>Hello</Text>
+      <Text>Welcome</Text>
     </View>
   )
 }
