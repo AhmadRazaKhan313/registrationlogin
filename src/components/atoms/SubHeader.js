@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-import {FONT_SIZES, LINE_HEIGHTS} from '../../Contants/Fonts'
-import {COLORS} from '../../Contants/Colors'
+import {FONT_SIZES, LINE_HEIGHTS} from '../../contants/Fonts'
+import {COLORS} from '../../contants/Colors'
 
 const SubHeader = ({
     text

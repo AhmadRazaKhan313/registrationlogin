@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 import React from 'react';
-import {COLORS} from '../../Contants/Colors'
-import {FONT_SIZES, FONT_WEIGHTS} from '../../Contants/Fonts' 
+import {COLORS} from '../../contants/Colors'
+import {FONT_SIZES, FONT_WEIGHTS} from '../../contants/Fonts' 
 
 const AccountPrompt = ({
   message = "Already have an account?",

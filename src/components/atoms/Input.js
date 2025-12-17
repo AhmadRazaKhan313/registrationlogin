@@ -1,7 +1,7 @@
 import { StyleSheet, Text, TextInput, View } from 'react-native'
 import React from 'react'
-import { FONT_SIZES, FONT_WEIGHTS, LINE_HEIGHTS } from '../../Contants/Fonts'
-import { COLORS } from '../../Contants/Colors'
+import { FONT_SIZES, FONT_WEIGHTS, LINE_HEIGHTS } from '../../contants/Fonts'
+import { COLORS } from '../../contants/Colors'
 
 const Input = ({ 
   icon: Icon, 
