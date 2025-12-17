@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View, Image } from 'react-native'
 import React, {useEffect} from 'react' 
-import {images} from '../Contants/images'
+import {images} from '../contants/images'
 
 const SplashScreen = ({onFinish}) => {
       useEffect(() => {

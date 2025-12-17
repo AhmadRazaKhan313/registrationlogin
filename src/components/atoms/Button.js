@@ -1,8 +1,8 @@
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native'
 import React from 'react';
 import LinearGradient from 'react-native-linear-gradient';
-import {COLORS} from '../../Contants/Colors'
-import { FONT_SIZES, LINE_HEIGHTS } from '../../Contants/Fonts';
+import {COLORS} from '../../contants/Colors'
+import { FONT_SIZES, LINE_HEIGHTS } from '../../contants/Fonts';
 
 const Button = ({
   title,

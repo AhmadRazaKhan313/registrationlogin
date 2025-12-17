@@ -1,13 +1,11 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-import { FONT_SIZES, FONT_WEIGHTS } from '../../Contants/Fonts'
+import { FONT_SIZES, FONT_WEIGHTS } from '../../contants/Fonts'
 
 const Header = ({title}) => {
   return (
     <View>
       <Text style={styles.headerText}>{title}</Text>
-      <Text>Hello</Text>
-      <Text>Welcome</Text>
     </View>
   )
 }
